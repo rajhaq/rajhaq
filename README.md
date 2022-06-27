@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Laravel and VueJS
 - 💬 Ask me about Custom Database management Development
 - 📫 How to reach me: zubaer.haque@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: Zuba-eer
 - ⚡ Fun fact: I'm not a web developer
